@@ -20,7 +20,7 @@
 
 6.  When user selects an order, can you populate the Card on top of the listing component as shown in the image
 
-![alt text](dashboard.JPG)
+![alt text](dashboard.jpg)
 
 ## Bonus
 
